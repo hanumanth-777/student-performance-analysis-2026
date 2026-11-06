@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Python,SQL,Mathematics,Attendance,Total_Marks,Percentage,Rank,Result,Attendance_Status
+103,Priya,23,95,92.0,98,96,285.0,95.0,1.0,Pass,Good Attendance
+107,Divya,23,90,88.0,95,94,273.0,91.0,2.0,Pass,Good Attendance
+105,Anjali,24,88,85.0,91,89,264.0,88.0,3.0,Pass,Good Attendance
+101,Rahul,25,85,78.0,90,92,253.0,84.33333333333334,4.0,Pass,Good Attendance
+109,Meena,24,82,80.0,86,88,248.0,82.66666666666667,5.0,Pass,Good Attendance
+110,Varun,26,75,70.0,72,82,217.0,72.33333333333334,6.0,Pass,Good Attendance
+106,Arjun,26,72,68.0,75,78,215.0,71.66666666666667,7.0,Pass,Good Attendance
+102,Ravi,24,65,72.0,68,80,205.0,68.33333333333333,8.0,Pass,Good Attendance
+108,Suresh,25,60,76.8,65,72,201.8,67.26666666666668,9.0,Pass,Low Attendance
+104,Kiran,25,45,55.0,50,65,150.0,50.0,10.0,Pass,Low Attendance
